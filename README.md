@@ -1,6 +1,6 @@
 # About This
 
-The project is basically a learning app (very simple) for integrating Postgresql with NodeJS with Express.js. 
+The project is basically a learning app (very simple) for integrating Postgresql with NodeJS and Express.js. 
 
 Sequelize ORM is used. 
 
