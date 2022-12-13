@@ -10,7 +10,7 @@
   "author": "Bob",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.4",
     "pg": "^8.3.0",
     "pg-hstore": "^2.3.3",
